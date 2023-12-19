@@ -1,0 +1,27 @@
+form{
+  width: 500px;
+  margin: 30px auto;
+  justify-content: center;
+  text-align: center;
+}
+
+form input{
+  margin-bottom: 5px;
+}
+
+form input[type='button']{
+  margin-right: 10px;
+}
+
+th{
+  width: 250px;
+}
+tr{
+  width: 100%;
+}
+
+tbody{
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
